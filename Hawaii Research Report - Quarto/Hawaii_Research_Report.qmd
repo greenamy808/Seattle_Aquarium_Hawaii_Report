@@ -162,7 +162,7 @@ Surveys are conducted annually in late January or early February. Data is collec
 Fish are counted and identified to species and functional group (Graham et al., 2015, Donovan 2017, Hobson 1974, Coral Reef Network 2005, Hoover 2008, DAR 2014).
 
 | Functional Group    | Description                                             |
-|--------------------|----------------------------------------------------|
+|---------------------|---------------------------------------------------------|
 | Predators           | Carnivores                                              |
 | Secondary consumers | Omnivores                                               |
 | Corallivores        | Rely on coral or coral polyps                           |
